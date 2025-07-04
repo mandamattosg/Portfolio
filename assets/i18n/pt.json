@@ -1,0 +1,91 @@
+{
+  "title": "Portfólio",
+  "header": {
+    "sobre": "Sobre mim",
+    "projetos": "Projetos",
+    "habilidades": "Habilidades",
+    "premios": "Prêmios",
+    "contato": "Contato"
+  },
+  "hero": {
+    "intro": "Olá, meu nome é",
+    "sub": "Eu sou",
+    "palavras": [
+      "desenvolvedora",
+      "engenheira",
+      "criadora de conteúdo",
+      "leitora",
+      "circense"
+    ]
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "text1": "Sou a Amanda, tenho 24 anos e sou recém-formada em Engenharia de Controle e Automação pela UFMG. Atualmente moro em Belo Horizonte - MG, onde também pratico circo e compartilho minha paixão por leitura e ciência nas redes sociais. Estou cursando uma pós-graduação em Engenharia de Software pela PUC Minas e atuo como Engenheira de Software Júnior. Com a combinação de um olhar criativo e uma mente analítica, meu objetivo é desenvolver soluções inovadoras que gerem impacto real.",
+    "text2": "Vamos criar algo incrível juntos?",
+    "cv" : "Currículo"
+  },
+  "projects": {
+    "title": "Projetos",
+    "personal": "Pessoais",
+    "professional": "Profissionais",
+    "allena": "Extensão para Chrome com IA para tornar sites acessíveis a pessoas com deficiência através do controle por comandos de voz. O back-end foi desenvolvido por mim e Ellen Morgana e o front-end por Laissa Soares. Projeto vencedor do Inovathon WTM 2025.",
+    "bibibot": "Bot para enviar promoções de livros da Amazon em um grupo do Telegram. Desenvolvido para influenciadores automatizarem o envio de promoções através do link de associados da Amazon.",
+    "pairbnb": "Aplicativo similar ao AirBnB para casais. Permite fazer o login, reservar ou oferecer hospedagens e gerenciar as reservas. Projeto do Curso Ionic - Build iOS, Android & Web Apps with Ionic & Angular.",
+    "pfc_title": "Dispositivo para segurança de idosos",
+    "pfc": "Dispositivo eletrônico voltado para idosos com funcionalidades que garantem sua segurança no dia a dia. Além disso, acompanha um aplicativo a fim de mostrar os dados para a família.",
+    "eyetracker_title": "Rastreador Ocular",
+    "eyetracker": "Rastreador ocular desenvolvido para permitir a comunicação através de um teclado controlado apenas com o movimento dos olhos.",
+    "conversia": "Aplicativo que transforma gestos faciais em comunicação para pessoas incapazes de falar e se mover. Desenvolvi a parte nativa em Android do aplicativo, para permitir o controle de um tablet apenas com movimentos e gestos faciais.",
+    "conectix": "Dispositivo para transformar o Teclado TiX em Bluetooth. Desenvolvi o firmware do dispositivo, que permite a comunicação entre o Teclado TiX, o computador e acionadores externos via Bluetooth.",
+    "ia": "IA",
+    "eletronics": "Eletrônica",
+    "goodreads": "Análise de Dados - Goodreads",
+    "goodreads_text": "Análise de dados com a base 'Goodreads-books' utilizando SQL para realizar consultas e Python para visualização dos dados.",
+    "analise": "Análise de Dados",
+    "cv": "Visão Computacional"
+    
+  },
+  "skills": {
+    "title": "Habilidades",
+    "languages": "Linguagens",
+    "frameworks": "Frameworks e Ferramentas",
+    "interests": "Interesses",
+    "languagesList": "Idiomas",
+    "ia": "IA",
+    "cv": "Visão Computacional",
+    "portuguese": "Português",
+    "english": "Inglês",
+    "spanish": "Espanhol",
+    "french": "Francês",
+    "data": "Análise de Dados"
+    },
+  "awards": {
+    "title": "Prêmios",
+    "inovathon": "1º lugar na competição Redefine Possible com a equipe SheCodes. Foi proposta a Allena, solução em IA para promover acessibilidade digital na web.",
+    "biochallenge": "3º lugar na 1ª Competição Nacional de Engenharia Biomédica. Foi desenvolvido um dispositivo para auxiliar pessoas com deficiência visual a se locomoverem."
+  },
+  "contact":
+  {
+    "title": "Contato",
+    "text": "Caso queira conhecer mais dos meus projetos e trocar uma ideia, me mande um email em"
+  },
+  "descriptions":
+  {
+    "toolbar_aboutme": "Ir para Sobre mim",
+    "toolbar_projects": "Ir para Projetos",
+    "toolbar_skills": "Ir para Habilidades",
+    "toolbar_awards": "Ir para Prêmios",
+    "toolbar_contact": "Ir para Contato",
+    "language_button": "Change Language",
+    "eua_flag": "United States Flag",
+    "br_flag": "Brazil Flag",
+    "hero": "Introdução pessoal",
+    "main_picture": "Retrato de Amanda Gontijo",
+    "book_picture": "Foto de Amanda com livros",
+    "circus_picture": "Foto de Amanda praticando circo",
+    "tec_picture": "Foto de Amanda em um evento de tecnologia",
+    "elt_picture": "Foto de Amanda trabalhando com eletrônica",
+    "email": "Ícone de Email",
+    "millennium": "Millennium Falcon - Rolar para cima"
+  }
+}

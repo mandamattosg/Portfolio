@@ -1,0 +1,90 @@
+{
+  "title": "Portfolio",
+  "header": {
+    "sobre": "About me",
+    "projetos": "Projects",
+    "habilidades": "Skills",
+    "premios": "Awards",
+    "contato": "Contact"
+  },
+  "hero": {
+    "intro": "Hi, my name is",
+    "sub": "I am a",
+    "palavras": [
+      "developer",
+      "software engineer",
+      "content creator",
+      "reader",
+      "circus artist"
+    ]
+   
+  },
+  "about": {
+    "title": "About Me",
+    "text1": "I'm Amanda, I'm 24 years old and I recently graduated in Control and Automation Engineering by UFMG. At the moment I live in Belo Horizonte - MG, where I also practice circus and share my love for reading and science in my social media. I'm currently pursuing a speacialization in Software Engineering by PUC Minas and I work as a Junior Software Engineer. With the combination of a creative sight and an analytical mind, my goal is to develop innovative solutions that impacts society.",
+    "text2": "Let's build something amazing together?",
+    "cv": "Resume"
+  },
+  "projects": {
+    "title": "Projects",
+    "personal": "Personal",
+    "professional": "Professional",
+    "allena": "Chrome extension with AI to make websites accessible to people with disabilities through voice commands. The back-end was developed by me and Ellen Morgana and the front-end by Laissa Soares. Winner of the Inovathon WTM 2025.",
+    "bibibot": "Bot to send Amazon book promotions in a Telegram group. Developed for influencers to automate the sending of promotions through the Amazon affiliate link.",
+    "pairbnb": "App similar to AirBnB for couples. Allows login, booking or offering accommodations and managing reservations. Project from the Ionic Course - Build iOS, Android & Web Apps with Ionic & Angular.",
+    "pfc_title": "Device for elderly safety",
+    "pfc": "Electronic device aimed at the elderly with features that ensure their safety in daily life. In addition, it comes with an app to show the data to the family.",
+    "eyetracker_title": "Eye Tracker",
+    "eyetracker": "Eye tracker developed to allow communication through a keyboard controlled only by eye movement.",
+    "conversia": "App that transforms facial gestures into communication for people unable to speak and move. I developed the native Android part of the app, to allow control of a tablet only with facial movements and gestures.",
+    "conectix": "Device to turn the TiX Keyboard into Bluetooth. I developed the firmware of the device, which allows communication between the TiX Keyboard, the computer and external triggers via Bluetooth.",
+    "ia": "AI",
+    "eletronics": "Electronics",
+    "goodreads": "Data Analysis - Goodreads",
+    "goodreads_text": "Data analysis with the 'Goodreads-books' database using SQL to perform queries and Python to visualize the data.",
+    "analise": "Data Analysis",
+    "cv": "Computer Vision"
+  },
+  "skills": {
+    "title": "Skills",
+    "languages": "Programming Languages",
+    "frameworks": "Frameworks and Tools",
+    "interests": "Interests",
+    "languagesList": "Languages",
+    "ia": "AI",
+    "cv": "Computer Vision",
+    "portuguese": "Portuguese",
+    "english": "English",
+    "spanish": "Spanish",
+    "french": "French",
+    "data": "Data Analysis"
+  },
+  "awards": {
+    "title": "Awards",
+    "inovathon": "1st place in the Redefine Possible competition with the SheCodes team. We proposed Allena, an AI solution to promote digital accessibility on the web.",
+    "biochallenge": "3rd place in the 1st National Biomedical Engineering Competition. We developed a device to assist visually impaired people in mobility."
+  },
+  "contact": {
+    "title": "Contact",
+    "text": "If you want to know more about my projects and have a chat, send me an email at"
+  },
+  "descriptions":{
+    "toolbar_aboutme": "Go to About me",
+    "toolbar_projects": "Go to Projects",
+    "toolbar_skills": "Go to Skills",
+    "toolbar_awards": "Go to Awards",
+    "toolbar_contact": "Go to Contact",
+    "language_button": "Mudar idioma",
+    "eua_flag": "Bandeira dos Estados Unidos",
+    "br_flag": "Bandeira do Brasil",
+    "hero": "Personal introduction",
+    "main_picture": "Portrait of Amanda Gontijo",
+    "book_picture": "Photo of Amanda with books",
+    "circus_picture": "Photo of Amanda practicing circus",
+    "tec_picture": "Photo of Amanda at a technology event",
+    "elt_picture": "Photo of Amanda working with electronics",
+    "email": "Email Icon",
+    "millennium": "Millennium Falcon - Scroll Up"
+
+  }
+}
